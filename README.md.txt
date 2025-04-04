@@ -23,7 +23,7 @@ The project follows these key steps:
 4. **Evaluation**: This project's evaluation metric is **Root Mean Squared Error (RMSE)**, which measures the difference between predicted and actual CO₂ levels.
 
 ## Results
-The Ridge Regression model performed well in predicting CO₂ levels. Key findings include:
+The GradientBoost model performed well in predicting CO₂ levels. Key findings include:
 - Certain sensor readings exhibit strong correlations with CO₂ levels.
 - The model reasonably balanced bias and variance, ensuring reliable predictions.
 - The test set evaluation metrics indicate the model's generalization ability across different environmental conditions.
