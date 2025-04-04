@@ -4,7 +4,7 @@
 Carbon emissions significantly contribute to climate change, making monitoring essential for mitigating environmental impact. However, existing high-accuracy reference meters are prohibitively expensive. **Chemotronix**, a company developing low-cost sensors, aims to build machine-learning models that accurately map sensor readings to CO₂ levels measured by reference meters. This will enable affordable and scalable solutions for tracking carbon emissions globally.
 
 ## Overview
-This project focuses on developing a **Ridge Regression** model to predict CO₂ levels using data from Chemotronix's low-cost sensors. By achieving this, we can bridge the gap between affordability and precision in carbon emission tracking, promoting widespread adoption of low-cost monitoring technologies.
+This project focuses on developing a **GradientBoost** model to predict CO₂ levels using data from Chemotronix's low-cost sensors. By achieving this, we can bridge the gap between affordability and precision in carbon emission tracking, promoting widespread adoption of low-cost monitoring technologies.
 
 ## Objective
 The primary goal of this project is to build an accurate prediction model for CO₂ levels using sensor data from Chemotronix's prototype devices. This breakthrough has the potential to:
